@@ -6,4 +6,5 @@
  - CalibNet: Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks. [code](https://github.com/epiception/CalibNet)
  - RegNet: Multimodal Sensor Registration Using Deep Neural Networks. [code](https://github.com/aaronlws95/regnet?tab=readme-ov-file)
  - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox. (**nice work!**). [code](https://github.com/koide3/direct_visual_lidar_calibration)
+ - A Robust LiDAR-Camera Self-Calibration Via Rotation-Based Alignment and Multi-Level Cost Volume. [paper](https://ieeexplore.ieee.org/abstract/document/10328060)
  - 
