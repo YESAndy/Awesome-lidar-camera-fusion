@@ -1,7 +1,7 @@
 # Awesome-lidar-camera-fusion
 
 ## Lidar camera calibration
-![Online lidar-camera calibration from RGGNet](https://user-images.githubusercontent.com/8921629/97133938-ce1b3980-1708-11eb-98df-58aac27a5625.gif)
+![Online lidar-camera calibration from RGGNet](https://user-images.githubusercontent.com/8921629/97133938-ce1b3980-1708-11eb-98df-58aac27a5625.gif "Online lidar-camera calibration from RGGNet")
  - Online Camera-LiDAR Calibration with Sensor Semantic Information. [paper](https://ieeexplore.ieee.org/abstract/document/9196627)
  - LCCNet: Lidar and Camera Self-Calibration Using Cost Volume Network. [code](https://github.com/IIPCVLAB/LCCNet)
  - CalibNet: Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks. [code](https://github.com/epiception/CalibNet)
