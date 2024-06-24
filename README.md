@@ -9,3 +9,4 @@
  - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox. (**nice work!**). [code](https://github.com/koide3/direct_visual_lidar_calibration)
  - A Robust LiDAR-Camera Self-Calibration Via Rotation-Based Alignment and Multi-Level Cost Volume. [paper](https://ieeexplore.ieee.org/abstract/document/10328060)
  - RGGNet: Tolerance Aware LiDAR-Camera Online Calibration With Geometric Deep Learning and Generative Model. [code](https://github.com/KleinYuan/RGGNet)
+ - Enhanced Low-Resolution LiDAR-Camera Calibration via Depth Interpolation and Supervised Contrastive Learning. [paper](https://ieeexplore.ieee.org/abstract/document/10096393)
